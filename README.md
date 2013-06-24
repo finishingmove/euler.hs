@@ -1,4 +1,4 @@
 euler.hs
 ========
 
-Project Euler - Haskell edition
+[Project Euler](http://projecteuler.net) - Haskell edition
